@@ -1,14 +1,9 @@
-## 🌐 Available Languages
-[🇬🇧 English](README.md) | [🇮🇳 Hindi](docs/translations/README.hi.md) | [🇪🇸 Spanish](docs/translations/README.es.md) | [🇨🇳 Chinese (Simplified)](docs/translations/README.zh.md)
-
-> Select your preferred language above 🌍 to read the README in that language.
-
-# Linux CLI + GUI for Android 
+#  Linux CLI + GUI  for Android 
 <p align="center">
    <a href="https://github.com/AryanVBw">
 <img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Banner/IMG_20231220_014524-removebg-preview.png" height="250" alt="LinuxDroid"></a></p>
 
-# LinuxDroid
+# Linuxdroid
 
 **Linuxdroid** is a Linux Command Line Interface (CLI) and Graphical User Interface (GUI) for Android, offering a collection of original open-source operating systems. This platform enables users to experience a variety of Linux distributions on Android devices.
 <p align="center">  
@@ -98,7 +93,7 @@ rm -rf .bashrc && cp default.bashrc .bashrc
 wget https://github.com/AryanVBW/LinuxDroid/releases/download/scripts/LinuxDroid.sh && chmod +x LinuxDroid.sh && bash LinuxDroid.sh
 
 ```
-### Select the Linux distribution you want to install — LinuxDroid will automatically install and set it up.
+### Select Linux you want to install Linuxdroid automatically isntall it and setup it.
 <p align="center">
 <img src="https://github.com/AryanVBW/LinuxDroid/releases/download/S1/Step3.png" height="200" >
 
@@ -178,18 +173,6 @@ Android Device (Stock unmodified device, no root or custom recovery required)
 Feel free to reach out, and let's build something amazing together! 🚀
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanvbw&show_icons=true&theme=dark)](https://github.com/aryanvbw)
-
-## 🎥 Video Tutorials
-
-### Ubuntu
-- [Install Linux on Android (No Root Needed!)](https://youtu.be/JqFpzI-FsU0?si=OiliEYr78ajOltPo) — *Covers full setup and troubleshooting for Ubuntu installation on Android*
-
-### Kali / NetHunter
-- [Kali Linux NetHunter install in 8 minutes (rootless)](https://youtu.be/GmfM8VCAu-I?si=Sik-lw78HXhmMJUC) — *Step-by-step guide for rootless Kali NetHunter installation*
-
-### Troubleshooting
-- [How to install NMAP on Android (TERMUX) and fix error in proot-distro [No Root]](https://youtu.be/DWdwboLpjsA?si=LmFG7DqIdDgNwLz-) — *Shows fixes for proot-distro errors and common Termux installation issues*
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Aryanvbw/count.svg" />
