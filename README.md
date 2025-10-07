@@ -1,6 +1,9 @@
 ## 🌐 Available Languages
 [🇬🇧 English](README.md) | [🇮🇳 Hindi](docs/translations/README.hi.md) | [🇪🇸 Spanish](docs/translations/README.es.md) | [🇨🇳 Chinese (Simplified)](docs/translations/README.zh.md)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1vbXptc2x4YmxpM2Z6eTQ4OXZ0Yzdpb3RsdTBhbjBwbGp4cWJ2MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kBZBlLVlfECvOQAVno/giphy.gif" width="180" alt="Linux fun gif"><br>
+  <em>Run Linux on Android — faster than saying ‘sudo’ ⚡</em>
+</p>
 > Select your preferred language above 🌍 to read the README in that language.
 
 # Linux CLI + GUI for Android 
@@ -11,59 +14,40 @@
 # LinuxDroid
 
 **Linuxdroid** is a Linux Command Line Interface (CLI) and Graphical User Interface (GUI) for Android, offering a collection of original open-source operating systems. This platform enables users to experience a variety of Linux distributions on Android devices.
+**LinuxDroid** is a <abbr title="Command Line Interface — text-based way to interact with your system.">CLI</abbr> and <abbr title="Graphical User Interface — point-and-click interface with windows.">GUI</abbr> tool for Android...
 <p align="center">  
    <a href="https://github.com/AryanVBW/LinuxDroid/tree/main#linuxdroid">
 <img src="https://github.com/AryanVBW/LinuxDroid/releases/download/L1/Os2.gif" alt="LinuxDroid"></a></p>
 
-### One-Click Installation Script 
-This script streamlines the installation process, providing a seamless experience for various operating systems. Whether you prefer a graphical interface or the command line, it's designed for simplicity and efficiency.Supported OS:
+### ⚙️ One-Click Installation Script  
+Run the installer instantly — no manual setup required!  
+
+```bash
+curl -sSL https://raw.githubusercontent.com/AryanVBW/LinuxDroid/refs/heads/main/1click.install.sh | bash
 # Copy One-Click Installation Script
 ```
   curl -sSL https://raw.githubusercontent.com/AryanVBW/LinuxDroid/refs/heads/main/1click.install.sh | bash
-    
+### ⚙️ One-Click Installation Script  
+Run the installer instantly — no manual setup required!  
+
+```bash
+curl -sSL https://raw.githubusercontent.com/AryanVBW/LinuxDroid/refs/heads/main/1click.install.sh | bash
+<p align="center">
+  <img src="https://media.giphy.com/media/26gsvx25dTyzxU3lK/giphy.gif" width="220" alt="Terminal animation"><br>
+  <sub>It’s that simple — Linux in a tap 🖱️💻</sub>
+</p>
 ```
-This script copies the installation command for LinuxDroid to your clipboard, making it easier to paste and execute.
-   - Parrot 🦜 Os <img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Icon/Parrot.png" height="12">
-   - Kali<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Icon/Kali.png" height="12">
-   - Ubuntu<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Icon/ubuntu-logo.png" height="12">
-   - Arch<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Icon/archBg.png" height="12">
-   - Debian<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Icon/debiBg.png" height="12">
-   - Manjaro<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Icon/d90e746a72ab1fd0d3e9638477e456ab4b4767cd.png" height="12">
-   - Void<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Icon/void.png" height="12">
-   - Alpine<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Icon/alpineBg.png" height="12">
-   - Fedora<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Icon/Fedorabg.png" height="12">
-   - NethunterRootLess (Hacking specialized Linux)<img src="https://github.com/AryanVBW/Myimage/releases/download/m3/kali-nethunter-dragon-tm.png" height="12">
-   - BlackBox(coming🔜)<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Icon/bosckbocBg.png" height="12">
-   - CentOS(coming 🔜)<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Icon/centosbg.png" height="12">
-### Supported Desktop Environments:
 
-- LXDE
-- LXQT
-- XFCE
-- MATE
-- KDE Plasma(Beta)
-- GNOME(coming soon)
-### 🪟 Window Managers:
+ <details>
+<summary><b>🧩 Supported Linux Distributions (Click to expand)</b></summary>
 
-- Awesome
-- Openbox
-- i3
+- Parrot 🦜 Os <img src="...Parrot.png" height="12">
+- Kali <img src="...Kali.png" height="12">
+- Ubuntu <img src="...ubuntu-logo.png" height="12">
+- Arch <img src="...archBg.png" height="12">
+- Debian <img src="...debiBg.png" height="12">
+- Manjaro <img src="...d90e7....png" height="12">
 
-In addition to OS support, Linuxdroid also provides automated installation capabilities for Kali Nethunter across all Android versions. This project aims to facilitate diverse use cases, such as:
-
-- Utilizing Apache local server environments
-- Conducting penetration testing (pentesting) with Kali
-
-### 🌟Features:
-
-- Full functionality of all Linux distributions supported
-- Complete tool compatibility with popular Kali and Ubuntu tools
-
-#### Notable Tools Included:
-- Nmap
-- Wireshark
-- Metasploit
-- Burp Suite
 - Aircrack-ng
 - Hydra
 - John the Ripper
@@ -71,7 +55,13 @@ In addition to OS support, Linuxdroid also provides automated installation capab
 - LibreOffice
 - Visual Studio Code
 - Mozilla Firefox
-
+### 🖥️ Supported Desktop Environments
+- 🪶 LXDE
+- 💎 LXQT
+- 🎨 XFCE
+- 🧩 MATE
+- 🛰️ KDE Plasma (Beta)
+- 🧠 GNOME (coming soon)
 <h1>Installation:</h1>
 <p align="center">
    <a href="https://f-droid.org/packages/com.termux/"><img src="https://github.com/AryanVBW/LinuxDroid/releases/download/S1/Step1.png" height="200" alt="LinuxDroid"></a></p>
@@ -98,6 +88,9 @@ rm -rf .bashrc && cp default.bashrc .bashrc
 wget https://github.com/AryanVBW/LinuxDroid/releases/download/scripts/LinuxDroid.sh && chmod +x LinuxDroid.sh && bash LinuxDroid.sh
 
 ```
+
+> 🧠 New to Termux or Linux?  
+> Explore [Termux Basics](https://wiki.termux.com/wiki/Main_Page) or [Linux Command Essentials](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line) to get started.
 ### Select the Linux distribution you want to install — LinuxDroid will automatically install and set it up.
 <p align="center">
 <img src="https://github.com/AryanVBW/LinuxDroid/releases/download/S1/Step3.png" height="200" >
